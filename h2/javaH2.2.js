@@ -1,0 +1,14 @@
+var blok1 = bl1;
+var blok2 = bl2;
+var blok3 = bl3;
+var blok4 = bl4;
+blok1.style.backgroundColor= "cyan";
+blok1.style.textAlign="center";
+blok1.style.paddingTop="10px";
+blok2.style.backgroundColor= "green";
+blok2.style.textAlign="center";
+blok2.style.marginTop="10px";
+blok3.style.backgroundColor= "yellow";
+blok3.style.textAlign="right";
+blok3.style.marginTop="30px";
+blok4.style.backgroundColor= "red";
